@@ -26,4 +26,5 @@ git branch #lists branches
 git branch <branch-name> #creates a new branch
 
 git merge <branch-name> #merges the branch to master
+
 ```

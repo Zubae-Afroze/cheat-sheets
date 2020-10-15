@@ -24,7 +24,7 @@ Truthy Values
 all values which are not falsy
 */
 
-//Array mutation
+//Array mutationṭ
 var name = ['John', 'Mark', 'Jane']
 
 name[name.length] = 'Mary' //adds an element
