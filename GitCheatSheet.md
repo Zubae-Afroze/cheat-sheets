@@ -23,6 +23,8 @@ git checkout <commit-hash> #rolls back to supplied commit hash
 
 git branch #lists branches
 
+git push -u orgin master #push to git hub
+
 git branch <branch-name> #creates a new branch
 
 git merge <branch-name> #merges the branch to master
