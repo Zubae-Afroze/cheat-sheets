@@ -37,3 +37,72 @@ name.pop() //removes the element in the end of an array.
 name.shift() //removes first element in the array.
 name.index('example') // will the return the position of an elemnt of the array we pass, else return -1.
 ```
+
+Next Gen JS
+```js
+let //variable value
+
+const // constant value
+
+//Arrow Function
+const myFunc = () => {
+  //code here
+}
+
+//JSX supports Export and Import
+
+//person.js
+const person = {
+  name='Max';
+}
+export default person
+
+//utility.js
+export const clean = () => {....}
+export const baseData = 10;
+
+//app.js
+import peron from './person.js'
+import {baseData} from './utility.js'
+import {clean} from './utility.js'
+
+import {baseData, clean} from './utility.js'
+
+import {baseData as data} from './utility.js'
+
+import * as bundled from './utility.js'
+
+//Spread or Rest operator
+...
+
+const number = [1, 2, 3, 4]
+const newNumbers = [...number, 5, 6];
+
+//Destrucing
+const number = [1, 2, 3];
+[num1, num2] = numbers;
+console.log(num1, num2);
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
