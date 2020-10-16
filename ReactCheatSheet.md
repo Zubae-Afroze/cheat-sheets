@@ -34,5 +34,5 @@ npm i react-bootstrap
 ```
 
 ```js
-rafce - React Arrow Funtions
+rafce  //React Arrow Funtions
 ```
