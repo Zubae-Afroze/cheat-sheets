@@ -36,3 +36,4 @@ npm i react-bootstrap
 ```js
 rafce  //React Arrow Funtions
 ```
+install Radium, for inline pseudo CSS properties
